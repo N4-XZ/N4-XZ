@@ -2,7 +2,7 @@
 
 **`Dev back-end`**
 
-Meu nome é Ector Gabriel, tenho 16 anos e sou de Aracaju, Sergipe. Sou apaixonado por tecnologia e estou sempre em busca de aprender coisas novas e desenvolver minhas habilidades na área.
+Meu nome é Ector Gabriel, tenho 16 anos e sou de Aracaju, Sergipe. Tenho interesse por tecnologia e estou sempre em busca de aprender coisas novas e desenvolver minhas habilidades na área.
 
 Tenho interesse por programação, inteligência artificial e desenvolvimento de software, buscando transformar ideias em projetos inovadores.
 
